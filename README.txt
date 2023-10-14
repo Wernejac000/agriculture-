@@ -12,3 +12,6 @@ can easily be ported. I've also tested this in Termux on an Android and it works
 Compilation (Linux only):
 $clang agriculture.c -o agriculture  OR
 $gcc agriculture.c -o agriculture
+
+run code:
+./agriculture
